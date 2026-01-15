@@ -187,7 +187,7 @@ A local-first LLM frontend for power users, supporting chat, character cards, an
 
 A lightweight framework for building agents. Bring your own OpenRouter key and use `ChatCompletionsClient` to build your own agents with any model.
 
-`productivity`
+`productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/ArtificialAnalysis/Stirrup)
 
 [Documentation](https://stirrup.artificialanalysis.ai/)
 
@@ -199,7 +199,7 @@ A lightweight framework for building agents. Bring your own OpenRouter key and u
 
 A lightweight framework for building agents in TypeScript/JavaScript. Bring your own OpenRouter key and use `ChatCompletionsClient` to build your own agents with any model.
 
-`productivity`
+`productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/ArtificialAnalysis/StirrupJS)
 
 [Documentation](https://stirrupjs.artificialanalysis.ai/)
 
