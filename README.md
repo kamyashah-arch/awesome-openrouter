@@ -30,6 +30,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Aventura](#aventura)
 - [BoltAI](#boltai)
 - [Chatbox](#chatbox)
+- [ChatLima](#chatlima)
 - [Chorus](#chorus)
 - [GitHub Copilot](#github-copilot)
 - [Kilo Code](#kilo-code)
@@ -116,6 +117,18 @@ Your Ultimate AI Copilot on the Desktop. Chatbox is a desktop client for ChatGPT
 `chat` `coding` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/chatboxai/chatbox)
 
 [Documentation](https://docs.chatboxai.app/en/guides/providers/openrouter)
+
+---
+
+### [ChatLima](https://www.chatlima.com)
+
+<img src="./apps/chatlima/logo.png" alt="ChatLima logo" width="64" height="64">
+
+Feature-rich MCP-powered AI chatbot with multi-model support, image input, PDF export, and comprehensive API key management for OpenRouter
+
+`chat` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/brooksy4503/chatlima)
+
+[Documentation](https://www.chatlima.com/faq)
 
 ---
 
