@@ -45,6 +45,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [SillyTavern](#sillytavern)
 - [Stirrup](#stirrup)
 - [StirrupJS](#stirrupjs)
+- [VT Code](#vt-code)
 - [Warden](#warden)
 
 ## Apps
@@ -298,6 +299,18 @@ A lightweight framework for building agents in TypeScript/JavaScript. Bring your
 `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/ArtificialAnalysis/StirrupJS)
 
 [Documentation](https://stirrupjs.artificialanalysis.ai/)
+
+---
+
+### [VT Code](https://github.com/vinhnx/vtcode)
+
+<img src="./apps/vtcode/logo.png" alt="VT Code logo" width="64" height="64">
+
+Semantic coding agent in the terminal
+
+`coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/vinhnx/vtcode)
+
+[Documentation](https://github.com/vinhnx/vtcode/blob/main/docs/providers/openrouter.md)
 
 ---
 
