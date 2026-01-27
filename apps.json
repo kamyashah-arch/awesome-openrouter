@@ -277,18 +277,6 @@
     "dateAdded": "2026-01-15"
   },
   {
-    "slug": "stirrup-js",
-    "name": "StirrupJS",
-    "description": "A lightweight framework for building agents in TypeScript/JavaScript. Bring your own OpenRouter key and use `ChatCompletionsClient` to build your own agents with any model.",
-    "url": "https://github.com/ArtificialAnalysis/StirrupJS",
-    "docs": "https://stirrupjs.artificialanalysis.ai/",
-    "tags": [
-      "productivity"
-    ],
-    "openSource": "https://github.com/ArtificialAnalysis/StirrupJS",
-    "dateAdded": "2026-01-15"
-  },
-  {
     "slug": "vtcode",
     "name": "VT Code",
     "description": "Semantic coding agent in the terminal",

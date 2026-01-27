@@ -46,7 +46,6 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Shakespeare](#shakespeare)
 - [SillyTavern](#sillytavern)
 - [Stirrup](#stirrup)
-- [StirrupJS](#stirrupjs)
 - [VT Code](#vt-code)
 - [Warden](#warden)
 
@@ -313,18 +312,6 @@ A lightweight framework for building agents. Bring your own OpenRouter key and u
 `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/ArtificialAnalysis/Stirrup)
 
 [Documentation](https://stirrup.artificialanalysis.ai/)
-
----
-
-### [StirrupJS](https://github.com/ArtificialAnalysis/StirrupJS)
-
-<img src="./apps/stirrup-js/logo.png" alt="StirrupJS logo" width="64" height="64">
-
-A lightweight framework for building agents in TypeScript/JavaScript. Bring your own OpenRouter key and use `ChatCompletionsClient` to build your own agents with any model.
-
-`productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/ArtificialAnalysis/StirrupJS)
-
-[Documentation](https://stirrupjs.artificialanalysis.ai/)
 
 ---
 
